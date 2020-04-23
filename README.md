@@ -1,3 +1,3 @@
 # tdd-js
 
-Aula prática do curso de FullStack da Digital Innovation.
+Aula prática sobre TDD do curso de FullStack da Digital Innovation.
