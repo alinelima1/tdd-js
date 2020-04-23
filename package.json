@@ -1,0 +1,23 @@
+{
+  "name": "tdd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha tests/findPersonListTest.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alinelima1/tdd-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alinelima1/tdd-js/issues"
+  },
+  "homepage": "https://github.com/alinelima1/tdd-js#readme",
+  "devDependencies": {
+    "mocha": "^7.1.1",
+    "should": "^13.2.3"
+  }
+}
